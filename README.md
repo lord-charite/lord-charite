@@ -6,7 +6,7 @@ I'm biomedical engineering graduate passionate about making healthcare more acce
 
 🏥 Focused on healthcare ops, AI-driven solutions, and access to treatment
 
-📸 Occasional amateur photographer [VSCO](https://vsco.co/lordcharite)
+📸 Occasional, amateur photographer [VSCO](https://vsco.co/lordcharite)
  
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/lordcharite) 
