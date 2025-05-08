@@ -2,9 +2,9 @@
 
 I'm biomedical engineering graduate passionate about making healthcare more accessible by combining data, operations, and technology. I’ve worked across biotech, healthcare startups, and academic research, and I’m currently contributing to tech-enabled operations at Tandem, improving medication access through streamlined workflows and pharma-integrated processes.
 
-🎓 Biomedical Engineering @ Dartmouth
-🏥 Focused on healthcare ops, AI-driven solutions, and access to treatment
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/lordcharite)
+- 🎓 Biomedical Engineering @ Dartmouth
+- 🏥 Focused on healthcare ops, AI-driven solutions, and access to treatment
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/lordcharite)
 
 Always open to collaborating on projects that sit at the intersection of healthcare, data, and impact.
 
