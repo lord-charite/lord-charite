@@ -1,17 +1,10 @@
 ## Hi I am Lordie 😊
 
-I'm biomedical engineering graduate passionate about making healthcare more accessible by combining data, operations, and technology. I’ve worked across biotech, healthcare startups, and academic research, and I’m currently contributing to tech-enabled operations at Tandem, improving medication access through streamlined workflows and pharma-integrated processes.
-
-🎓 Biomedical Engineering @ Dartmouth
-
-🏥 Focused on healthcare ops, AI-driven solutions, and access to treatment
-
-📸 Occasional, amateur photographer [VSCO](https://vsco.co/lordcharite)
- 
+I'm biomedical engineering graduate passionate about making healthcare more accessible by combining data, financial ressources, operations, and technology. I’ve worked across biotech, healthcare startups, and academic research, and I’m currently contributing to tech-enabled operations at Tandem, improving medication access through streamlined workflows and pharma-integrated processes.
 
 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/lordcharite) 
 
-Always open to collaborating on projects that sit at the intersection of healthcare, data, and impact.
+Always open to collaborating on projects that sit at the intersection of impact and improving people's lives.
 
 
 # 💻 Tech Stack:
